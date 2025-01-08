@@ -6,16 +6,16 @@
   - Subject domain
   - Algorithm: 🖐️ used
   - Syntax: 🖐️ used
-  - Semantics
-  - Abstraction: 👂 heard
-  - Paradigm: 👂 heard
-  - Programm: 👂 heard
-  - Programming paradigm: 👂 heard
-  - Programming language: 👂 heard
+  - Semantics u
+  - Abstraction: 👂u
+  - Paradigm: u
+  - Programm: u
+  - Programming paradigm: u
+  - Programming language: u
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module u
+  - Library u
+  - Package u
   - Component
   - Framework: 👂 heard
   - Platform: 👂 heard
@@ -23,13 +23,13 @@
   - Object code
   - Machine code: 👂 heard
   - Microcode
-  - Software engineering: 👂 heard
+  - Software engineering: u
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY): 👂 heard
+  - Don't repeat yourself (DRY): u
   - KISS principle
 - Syntax and concepts
   - Value: 🖐️ used
@@ -42,16 +42,16 @@
   - Heap
   - Function: 🖐️ used
   - Procedure
-  - Method
+  - Method u
   - Class
   - Prototype
   - Event
-  - Type
+  - Type u
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops u
   - Assignment
   - Regular expression
   - Interface
@@ -60,14 +60,14 @@
   - Naming conventions
   - Coding conventions
   - Camel case: 🖐️ used
-  - Snake case
+  - Snake case u
   - Kebab case
-  - Trailing commas
+  - Trailing commas u
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types u
+  - Reference types u
   - Type systems
   - Strong typing
   - Weak typing
@@ -85,18 +85,18 @@
   - Argument: 🖐️ used
   - Parameter: 🖐️ used
   - Pure function: 🖐️ used
-  - Lambda expression
-  - Side effects
-  - Closure
+  - Lambda expression u
+  - Side effects u
+  - Closure u
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion u
   - Tail call optimisation
-  - Callback
+  - Callback u
   - Listener
-  - Composition
-  - Pipe
+  - Composition u
+  - Pipe u
   - Memoize
   - Wrapper
   - Functor
@@ -110,16 +110,16 @@
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
+  - Object u
+  - Collection u
   - Set
-  - Hash table
-  - Linked list
-  - Doubly list
+  - Hash table h
+  - Linked list h
+  - Doubly list h
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue h
+  - Stack h
   - Deque
   - Tree
   - Graph
@@ -130,15 +130,15 @@
   - String parsing
   - JSON: 🖐️ used
   - JSON5
-  - YAML
+  - YAML k
 - Networking
-  - DNS
+  - DNS h
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4 h
+  - IPv6 h
   - NAT
-  - URL
+  - URL k
   - URN
   - URI
 - Process and tools
@@ -153,7 +153,7 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine h
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -164,9 +164,9 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
-  - Docker
+  - git u
+  - Github u
+  - Docker k
   - Kubernetes
   - GCC
   - LLVM

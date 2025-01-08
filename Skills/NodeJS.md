@@ -17,8 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -99,7 +99,7 @@
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console u
   - Inspector
 - Data access
   - Data access layer
@@ -117,7 +117,7 @@
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
-  - Uncaught exceptions
+  - Uncaught exceptions u
   - Heap dump
   - Debugging tools
   - Flame graph

@@ -5,25 +5,25 @@
   - `Function`: 🖐️ used
   - `Boolean`: 🖐️ used
   - `Number`: 🖐️ used
-  - `BigInt`: 🎓 known
+  - `BigInt`: u
   - `String`: 🖐️ used
-  - `Symbol`: 🎓 known
+  - `Symbol`: u
   - `Infinity`: 🖐️ used
   - `NaN`: 🖐️ used
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
-  - `this`: 🎓 known
+  - `this`: u
   - `instanceof`: 🖐️ used
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof` u
   - Destructuring
   - Generators
   - Iterators: 🖐️ used
   - Async generator
   - Async iterator
-  - Chaining
-  - Optional chaining
+  - Chaining u
+  - Optional chaining u
   - IIFE
   - Async IIFE
   - `global`
@@ -34,12 +34,12 @@
   - `prototype`
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
-  - Logical Assignment
-  - Bitwise operators
+  - Logical Assignment u
+  - Bitwise operators u
   - Ternary operator: 🖐️ used
   - `void`: 🖐️ used
   - `yield`
-  - `await`
+  - `await` u
   - Template literal
   - Strict mode: 🖐️ used
   - Hoisting
@@ -61,37 +61,37 @@
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
-  - `do..while`: 🎓 known
+  - `do..while`: u
   - `for`: 🖐️ used
-  - `for..in`: 👂 heard
-  - `for..of`: 👂 heard
+  - `for..in`: u
+  - `for..of`: u
   - `for await`
   - `throw`
   - `break`: 🖐️ used
   - `continue`: 🖐️ used
-  - `import`
-  - `export`
+  - `import` u
+  - `export` u
   - `label`
   - `try..catch`: 👂 heard
   - `switch`: 👂 heard
   - `class`
   - `extends`
   - `with`
-  - `new`
+  - `new` u
 - Functions
-  - Arrow function: 👂 heard
-  - Async function: 👂 heard
+  - Arrow function: u
+  - Async function: u
   - Function declaration: 🖐️ used
-  - Function expression: 👂 heard
-  - Default parameters: 👂 heard
-  - Functional object: 👂 heard
+  - Function expression: u
+  - Default parameters: u
+  - Functional object: u
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
-  - `Map`
+  - `Map` u
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -104,19 +104,19 @@
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
   - `Reflect`
-  - `Error`
+  - `Error` u
   - `Atomics`
-  - `JSON`
+  - `JSON` u
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
+  - `Promise` u
+  - `console` u
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js u
+  - npm u
+  - prettier u
   - MDN
   - TC39
