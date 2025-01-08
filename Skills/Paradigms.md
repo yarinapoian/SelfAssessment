@@ -1,24 +1,24 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming h
+  - Procedural programming: 👂 heard
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming u
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming h
+  - Object-oriented programming: 👂 heard
   - Object-based programming
-  - Generic programming h
+  - Generic programming: 👂 heard
   - Concurrent computing
-  - Asynchronous programming u
+  - Asynchronous programming: 🖐️ used
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming h
+  - Metaprogramming: 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
@@ -58,7 +58,7 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) h
+  - Single-responsibility principle (SRP): 👂 heard
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)

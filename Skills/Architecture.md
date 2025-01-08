@@ -1,11 +1,11 @@
 ## Architecture
 
 - Application structure
-  - Modularity u
+  - Modularity: 🖐️ used
   - Components
   - Directories: 🖐️ used
   - GRASP
-  - SOLID k
+  - SOLID: 🎓 known
   - GoF patterns
   - CQS
   - Leaking abstractions
