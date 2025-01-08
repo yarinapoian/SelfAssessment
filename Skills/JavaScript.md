@@ -5,25 +5,25 @@
   - `Function`: 🖐️ used
   - `Boolean`: 🖐️ used
   - `Number`: 🖐️ used
-  - `BigInt`: 🎓 known
+  - `BigInt`: 🖐️ used
   - `String`: 🖐️ used
-  - `Symbol`: 🎓 known
+  - `Symbol`: 🖐️ used
   - `Infinity`: 🖐️ used
   - `NaN`: 🖐️ used
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
-  - `this`: 🎓 known
+  - `this`: 🖐️ used
   - `instanceof`: 🖐️ used
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof`: 🖐️ used
   - Destructuring
   - Generators
   - Iterators: 🖐️ used
   - Async generator
   - Async iterator
-  - Chaining
-  - Optional chaining
+  - Chaining: 🖐️ used
+  - Optional chaining: 🖐️ used
   - IIFE
   - Async IIFE
   - `global`
@@ -34,12 +34,12 @@
   - `prototype`
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
-  - Logical Assignment
-  - Bitwise operators
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🖐️ used
   - Ternary operator: 🖐️ used
   - `void`: 🖐️ used
   - `yield`
-  - `await`
+  - `await`: 🖐️ used
   - Template literal
   - Strict mode: 🖐️ used
   - Hoisting
@@ -61,37 +61,37 @@
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
-  - `do..while`: 🎓 known
+  - `do..while`: 🖐️ used
   - `for`: 🖐️ used
-  - `for..in`: 👂 heard
-  - `for..of`: 👂 heard
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
   - `for await`
   - `throw`
   - `break`: 🖐️ used
   - `continue`: 🖐️ used
-  - `import`
-  - `export`
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
   - `label`
   - `try..catch`: 👂 heard
   - `switch`: 👂 heard
   - `class`
   - `extends`
   - `with`
-  - `new`
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function: 👂 heard
-  - Async function: 👂 heard
+  - Arrow function: 🖐️ used
+  - Async function: 🖐️ used
   - Function declaration: 🖐️ used
-  - Function expression: 👂 heard
-  - Default parameters: 👂 heard
-  - Functional object: 👂 heard
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
+  - Functional object: 🖐️ used
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
-  - `Map`
+  - `Map`: 🖐️ used
   - `Set`
   - `WeakMap`
   - `WeakSet`
@@ -104,19 +104,19 @@
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
   - `Reflect`
-  - `Error`
+  - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON`
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
+  - `Promise`: 🖐️ used
+  - `console`: 🖐️ used
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN
   - TC39

@@ -6,16 +6,16 @@
   - Subject domain
   - Algorithm: 🖐️ used
   - Syntax: 🖐️ used
-  - Semantics
-  - Abstraction: 👂 heard
-  - Paradigm: 👂 heard
-  - Programm: 👂 heard
-  - Programming paradigm: 👂 heard
-  - Programming language: 👂 heard
+  - Semantics: 🖐️ used
+  - Abstraction: 👂u 👉 Warning: not matching level and emoji
+  - Paradigm: 🖐️ used
+  - Programm: 🖐️ used
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module: 🖐️ used
+  - Library: 🖐️ used
+  - Package: 🖐️ used
   - Component
   - Framework: 👂 heard
   - Platform: 👂 heard
@@ -23,13 +23,13 @@
   - Object code
   - Machine code: 👂 heard
   - Microcode
-  - Software engineering: 👂 heard
+  - Software engineering: 🖐️ used
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY): 👂 heard
+  - Don't repeat yourself (DRY): 🖐️ used
   - KISS principle
 - Syntax and concepts
   - Value: 🖐️ used
@@ -42,16 +42,16 @@
   - Heap
   - Function: 🖐️ used
   - Procedure
-  - Method
+  - Method: 🖐️ used
   - Class
   - Prototype
   - Event
-  - Type
+  - Type: 🖐️ used
   - Flag
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops: 🖐️ used
   - Assignment
   - Regular expression
   - Interface
@@ -60,14 +60,14 @@
   - Naming conventions
   - Coding conventions
   - Camel case: 🖐️ used
-  - Snake case
+  - Snake case: 🖐️ used
   - Kebab case
-  - Trailing commas
+  - Trailing commas: 🖐️ used
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
   - Type systems
   - Strong typing
   - Weak typing
@@ -85,18 +85,18 @@
   - Argument: 🖐️ used
   - Parameter: 🖐️ used
   - Pure function: 🖐️ used
-  - Lambda expression
-  - Side effects
-  - Closure
+  - Lambda expression: 🖐️ used
+  - Side effects: 🖐️ used
+  - Closure: 🖐️ used
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion: 🖐️ used
   - Tail call optimisation
-  - Callback
+  - Callback: 🖐️ used
   - Listener
-  - Composition
-  - Pipe
+  - Composition: 🖐️ used
+  - Pipe: 🖐️ used
   - Memoize
   - Wrapper
   - Functor
@@ -110,16 +110,16 @@
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
   - Set
-  - Hash table
-  - Linked list
-  - Doubly list
+  - Hash table: 👂 heard
+  - Linked list: 👂 heard
+  - Doubly list: 👂 heard
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue: 👂 heard
+  - Stack: 👂 heard
   - Deque
   - Tree
   - Graph
@@ -130,15 +130,15 @@
   - String parsing
   - JSON: 🖐️ used
   - JSON5
-  - YAML
+  - YAML: 🎓 known
 - Networking
-  - DNS
+  - DNS: 👂 heard
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4: 👂 heard
+  - IPv6: 👂 heard
   - NAT
-  - URL
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
@@ -153,7 +153,7 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -164,9 +164,9 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
-  - Docker
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 🎓 known
   - Kubernetes
   - GCC
   - LLVM

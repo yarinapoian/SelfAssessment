@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - `try..catch`: 👂 heard
+  - `try..catch`: 🖐️ used
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -25,14 +25,14 @@
   - Callbacks
   - Callback-last-error-first
   - Thenable
-  - Promise: 👂 heard
-  - Async/await
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
