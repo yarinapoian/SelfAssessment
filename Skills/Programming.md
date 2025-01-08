@@ -4,43 +4,43 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm u
-  - Syntax u
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
-  - Abstraction h
-  - Paradigm h
-  - Programm h
-  - Programming paradigm h
-  - Programming language h
+  - Abstraction: 👂 heard
+  - Paradigm: 👂 heard
+  - Programm: 👂 heard
+  - Programming paradigm: 👂 heard
+  - Programming language: 👂 heard
   - Contract
   - Module
   - Library
   - Package
   - Component
-  - Framework h
-  - Platform h
+  - Framework: 👂 heard
+  - Platform: 👂 heard
   - Source code
   - Object code
-  - Machine code h
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering h
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY) h
+  - Don't repeat yourself (DRY): 👂 heard
   - KISS principle
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant u
-  - Scalar u
-  - Literal u
-  - Expression u
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function u
+  - Function: 🖐️ used
   - Procedure
   - Method
   - Class
@@ -59,7 +59,7 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case u
+  - Camel case: 🖐️ used
   - Snake case
   - Kebab case
   - Trailing commas
@@ -81,10 +81,10 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature u
-  - Argument u
-  - Parameter u
-  - Pure function u
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 🖐️ used
   - Lambda expression
   - Side effects
   - Closure
@@ -105,8 +105,8 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
-  - Structure u
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
   - Record
   - Enum
   - Instance
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON u
+  - JSON: 🖐️ used
   - JSON5
   - YAML
 - Networking
@@ -142,8 +142,8 @@
   - URN
   - URI
 - Process and tools
-  - Compiler u
-  - Just-in-time compilation u
+  - Compiler: 🖐️ used
+  - Just-in-time compilation: 🖐️ used
   - Ahead-of-time compilation
   - Transpiler
   - Linter
@@ -214,10 +214,10 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux k
+  - Linux: 🎓 known
   - Unix
   - BSD
-  - MacOS u
+  - MacOS: 🖐️ used
   - Windows
   - Real-time OS
   - Embedded OS

@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop
-  - `try..catch` h
+  - `try..catch`: 👂 heard
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -25,7 +25,7 @@
   - Callbacks
   - Callback-last-error-first
   - Thenable
-  - Promise h
+  - Promise: 👂 heard
   - Async/await
   - Future
   - Deferred

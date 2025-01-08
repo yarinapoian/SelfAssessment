@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object` u
-  - `Function` u
-  - `Boolean` u
-  - `Number` u
-  - `BigInt` k
-  - `String` u
-  - `Symbol` k
-  - `Infinity` u
-  - `NaN` u
-  - `undefined` u
-  - `null` u
-  - `this` k
-  - `instanceof` u
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 🎓 known
+  - `String`: 🖐️ used
+  - `Symbol`: 🎓 known
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🎓 known
+  - `instanceof`: 🖐️ used
   - `...spread`
   - `...rest`
   - `typeof`
   - Destructuring
   - Generators
-  - Iterators u
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
   - Chaining
@@ -32,17 +32,17 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators u
-  - Logical operators u
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment
   - Bitwise operators
-  - Ternary operator u
-  - `void` u
+  - Ternary operator: 🖐️ used
+  - `void`: 🖐️ used
   - `yield`
   - `await`
   - Template literal
-  - Strict mode u
-  - Hoisting 
+  - Strict mode: 🖐️ used
+  - Hoisting
   - `delete`
   - `in`
   - `super`
@@ -59,38 +59,38 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` u
-  - `while` u
-  - `do..while` k
-  - `for` u
-  - `for..in` h
-  - `for..of` h
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🎓 known
+  - `for`: 🖐️ used
+  - `for..in`: 👂 heard
+  - `for..of`: 👂 heard
   - `for await`
   - `throw`
-  - `break` u
-  - `continue` u
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
   - `import`
   - `export`
   - `label`
-  - `try..catch` h
-  - `switch` h
+  - `try..catch`: 👂 heard
+  - `switch`: 👂 heard
   - `class`
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function h
-  - Async function h
-  - Function declaration u
-  - Function expression h
-  - Default parameters h
-  - Functional object h
+  - Arrow function: 👂 heard
+  - Async function: 👂 heard
+  - Function declaration: 🖐️ used
+  - Function expression: 👂 heard
+  - Default parameters: 👂 heard
+  - Functional object: 👂 heard
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` u
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` u
+  - `Array`: 🖐️ used
   - `Map`
   - `Set`
   - `WeakMap`
@@ -101,8 +101,8 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date` u
-  - `Math` u
+  - `Date`: 🖐️ used
+  - `Math`: 🖐️ used
   - `Reflect`
   - `Error`
   - `Atomics`
