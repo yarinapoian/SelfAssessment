@@ -4,43 +4,43 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm u
+  - Syntax u
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Abstraction h
+  - Paradigm h
+  - Programm h
+  - Programming paradigm h
+  - Programming language h
   - Contract
   - Module
   - Library
   - Package
   - Component
-  - Framework
-  - Platform
+  - Framework h
+  - Platform h
   - Source code
   - Object code
-  - Machine code
+  - Machine code h
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY) h
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar u
+  - Literal u
+  - Expression u
   - Heap
-  - Function
+  - Function u
   - Procedure
   - Method
   - Class
@@ -59,7 +59,7 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case u
   - Snake case
   - Kebab case
   - Trailing commas
@@ -81,10 +81,10 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function u
   - Lambda expression
   - Side effects
   - Closure
@@ -105,8 +105,8 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array u
+  - Structure u
   - Record
   - Enum
   - Instance
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON u
   - JSON5
   - YAML
 - Networking
@@ -142,8 +142,8 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
+  - Compiler u
+  - Just-in-time compilation u
   - Ahead-of-time compilation
   - Transpiler
   - Linter
@@ -217,7 +217,7 @@
   - Linux
   - Unix
   - BSD
-  - MacOS
+  - MacOS u
   - Windows
   - Real-time OS
   - Embedded OS

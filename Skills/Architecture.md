@@ -3,7 +3,7 @@
 - Application structure
   - Modularity
   - Components
-  - Directories
+  - Directories u
   - GRASP
   - SOLID
   - GoF patterns
@@ -18,10 +18,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability h
+  - Quality h
+  - Availability h
+  - Flexibility h
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -55,7 +55,7 @@
   - On-premises
   - IaaS
   - PaaS
-  - SaaS
+  - SaaS h
   - FaaS clouds
   - Serverless
   - Vendor lock-in
@@ -64,13 +64,13 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design k
   - Process modelling
   - Data modelling
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds k
   - BPMN
   - Low-code
   - No-code

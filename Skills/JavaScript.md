@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
+  - `Object` u
+  - `Function` u
+  - `Boolean` u
+  - `Number` u
+  - `BigInt` k
+  - `String` u
+  - `Symbol` k
+  - `Infinity` u
+  - `NaN` u
+  - `undefined` u
+  - `null` u
+  - `this` k
+  - `instanceof` u
   - `...spread`
   - `...rest`
   - `typeof`
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators u
   - Async generator
   - Async iterator
   - Chaining
@@ -32,17 +32,17 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators u
+  - Logical operators u
   - Logical Assignment
   - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Ternary operator u
+  - `void` u
   - `yield`
   - `await`
   - Template literal
-  - Strict mode
-  - Hoisting
+  - Strict mode u
+  - Hoisting 
   - `delete`
   - `in`
   - `super`
@@ -59,38 +59,38 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
+  - `if` u
+  - `while` u
+  - `do..while` k
+  - `for` u
+  - `for..in` h
+  - `for..of` h
   - `for await`
   - `throw`
-  - `break`
-  - `continue`
+  - `break` u
+  - `continue` u
   - `import`
   - `export`
   - `label`
-  - `try..catch`
-  - `switch`
+  - `try..catch` h
+  - `switch` h
   - `class`
   - `extends`
   - `with`
   - `new`
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
+  - Arrow function h
+  - Async function h
+  - Function declaration u
+  - Function expression h
+  - Default parameters h
+  - Functional object h
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` u
 - Data structures
-  - `Array`
+  - `Array` u
   - `Map`
   - `Set`
   - `WeakMap`
@@ -101,8 +101,8 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`
-  - `Math`
+  - `Date` u
+  - `Math` u
   - `Reflect`
   - `Error`
   - `Atomics`
